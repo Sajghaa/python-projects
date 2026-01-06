@@ -11,22 +11,20 @@ def get_number_input(prompt: str = "Enter a number: ") -> int:
     while True:
         try:
             user_input = input(prompt)
-            
-            # Handle empty input
+   
             if not user_input.strip():
                 print(" Please enter a value.")
                 continue
                 
-            # Try to convert to integer
             number = int(user_input)
             return number
             
         except ValueError:
             print(" Invalid input! Please enter a valid integer (e.g., 42, -7, 0).")
             if "." in user_input:
-                print("💡 Tip: Enter whole numbers only (no decimals).")
+                print(" Tip: Enter whole numbers only (no decimals).")
             elif any(c.isalpha() for c in user_input):
-                print("💡 Tip: Numbers shouldn't contain letters.")
+                print(" Tip: Numbers shouldn't contain letters.")
 
 def check_single_number():
     print("\n" + "="*40)
@@ -83,7 +81,6 @@ def check_multiple_numbers():
             number = int(user_input)
             numbers.append(number)
             
-            # Immediate feedback
             if is_even_modulo(number):
                 print(f"  {number}: EVEN ✓")
             else:
