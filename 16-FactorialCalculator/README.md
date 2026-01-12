@@ -19,8 +19,8 @@ A professional Python application demonstrating multiple approaches to calculati
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/factorial-calculator.git
-cd factorial-calculator
+git clone https://github.com/Sajghaa/16-FactorialCalculator.git
+cd 16-FactorialCalculator
 
 # Run the program
 python main.py
