@@ -1,8 +1,8 @@
-# 🔢 Factorial Calculator
+#  Factorial Calculator
 
 A professional Python application demonstrating multiple approaches to calculating factorials with educational explanations and clean code practices.
 
-## 🌟 Features
+##  Features
 
 - **Multiple Calculation Methods**: Loop (iterative), Recursive, and Built-in
 - **Educational Explanations**: Step-by-step calculations shown
@@ -11,7 +11,7 @@ A professional Python application demonstrating multiple approaches to calculati
 - **Performance Insights**: Comparison of different approaches
 - **Production-Ready Code**: Type hints, docstrings, modular design
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.6 or higher
