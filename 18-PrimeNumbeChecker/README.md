@@ -1,8 +1,8 @@
-# 🔢 Prime Number Checker
+#  Prime Number Checker
 
 A comprehensive Python program to check if numbers are prime, with step-by-step explanations and multiple checking methods.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # Clone the repository
