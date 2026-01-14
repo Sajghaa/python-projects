@@ -7,7 +7,7 @@ A comprehensive Python program to check if numbers are prime, with step-by-step 
 ```bash
 # Clone the repository
 git clone https://github.com/Sajghaa/18-PrimeNumbeChecker.git
-cd prime-checker
+cd 18-PrimeNumberChecker
 
 # Run the main program
 python prime_checker.py
