@@ -1,0 +1,6 @@
+# Dice Rolling Simulator
+# No external dependencies required for basic functionality
+
+# Optional for future enhancements:
+# numpy >= 1.21.0 # for advanced statistics
+# click >= 8.0.0. # For better CLI 
