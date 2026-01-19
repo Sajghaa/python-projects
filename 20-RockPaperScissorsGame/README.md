@@ -20,5 +20,5 @@ A clean, professional implementation of the classic Rock, Paper, Scissors game i
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/RockPaperScissorsGame.git
+git clone https://github.com/Sajghaa/RockPaperScissorsGame.git
 cd RockPaperScissorsGame
