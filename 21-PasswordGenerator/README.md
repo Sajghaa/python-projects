@@ -20,5 +20,5 @@ A professional, secure password generator built with Python. Generate strong, cu
 ### Installation
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/21-PassWordGenerator.git
+git clone https://github.com/Sajghaa/21-PassWordGenerator.git
 cd 21-PassWordGenerator
