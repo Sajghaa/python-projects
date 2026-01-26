@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Text Analyzer - Vowel Counter
-Count vowels and analyze text with multiple features.
-"""
-
 import os
 import sys
 import json
