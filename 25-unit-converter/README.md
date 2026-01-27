@@ -22,5 +22,5 @@ A professional unit converter that handles length and weight conversions with a 
 ### Installation
 1. Download or clone the repository:
 ```bash
-git clone https://github.com/yourusername/unit-converter.git
-cd unit-converter
+git clone https://github.com/Sajghaa/25-unit-converter.git
+cd 25unit-converter
