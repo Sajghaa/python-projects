@@ -23,5 +23,5 @@ A professional text analysis tool that counts vowels and performs comprehensive 
 ### Installation
 1. Download or clone the repository:
 ```bash
-git clone https://github.com/yourusername/text-analyzer.git
-cd text-analyzer
+git clone https://github.com/Sajghaa/24VowelCounter.git
+cd 24VowelCounter
